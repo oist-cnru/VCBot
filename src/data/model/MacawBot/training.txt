@@ -1,0 +1,624 @@
+Training from scratch ...
+Epoch [100] - Time [39483.1ms] - RE_Q [512.249] - RE_P [720.159] - Regulation [24.8836] - loss [261.101]
+The model has been saved
+Epoch [200] - Time [42393.6ms] - RE_Q [391.484] - RE_P [559.79] - Regulation [25.2489] - loss [200.792]
+The model has been saved
+Epoch [300] - Time [50899.8ms] - RE_Q [285.009] - RE_P [573.942] - Regulation [25.3729] - loss [147.579]
+The model has been saved
+Epoch [400] - Time [50553.4ms] - RE_Q [238.897] - RE_P [612.966] - Regulation [27.9897] - loss [125.046]
+The model has been saved
+Epoch [500] - Time [49278.2ms] - RE_Q [138.908] - RE_P [748.865] - Regulation [29.8538] - loss [75.4246]
+The model has been saved
+Epoch [600] - Time [51562.6ms] - RE_Q [151.137] - RE_P [587.751] - Regulation [26.8131] - loss [80.9313]
+Epoch [700] - Time [48914.8ms] - RE_Q [108.172] - RE_P [663.658] - Regulation [32.7713] - loss [60.6402]
+The model has been saved
+Epoch [800] - Time [52073.7ms] - RE_Q [58.2469] - RE_P [767.139] - Regulation [34.1715] - loss [35.9577]
+The model has been saved
+Epoch [900] - Time [47964.9ms] - RE_Q [44.0538] - RE_P [707.427] - Regulation [32.5544] - loss [28.5378]
+The model has been saved
+Epoch [1000] - Time [52140.2ms] - RE_Q [37.5922] - RE_P [891.449] - Regulation [31.1603] - loss [25.0281]
+The model has been saved
+Epoch [1100] - Time [47505.1ms] - RE_Q [27.7918] - RE_P [653.507] - Regulation [29.9139] - loss [19.8787]
+The model has been saved
+Epoch [1200] - Time [51565.4ms] - RE_Q [24.5914] - RE_P [736.615] - Regulation [28.8827] - loss [18.0722]
+The model has been saved
+Epoch [1300] - Time [47493.2ms] - RE_Q [19.5433] - RE_P [775.31] - Regulation [28.0029] - loss [15.3723]
+The model has been saved
+Epoch [1400] - Time [45567.2ms] - RE_Q [17.4896] - RE_P [861.077] - Regulation [28.203] - loss [14.3854]
+The model has been saved
+Epoch [1500] - Time [51838.1ms] - RE_Q [16.1528] - RE_P [647.808] - Regulation [29.3317] - loss [13.9427]
+The model has been saved
+Epoch [1600] - Time [47843.2ms] - RE_Q [16.1966] - RE_P [884.471] - Regulation [26.2198] - loss [13.3423]
+The model has been saved
+Epoch [1700] - Time [52035.3ms] - RE_Q [13.8718] - RE_P [983.676] - Regulation [26.0365] - loss [12.1432]
+The model has been saved
+Epoch [1800] - Time [47715.5ms] - RE_Q [11.4836] - RE_P [652.649] - Regulation [25.1266] - loss [10.7671]
+The model has been saved
+Epoch [1900] - Time [47969ms] - RE_Q [12.1885] - RE_P [782.562] - Regulation [24.022] - loss [10.8987]
+Epoch [2000] - Time [51780ms] - RE_Q [12.7583] - RE_P [784.691] - Regulation [23.7094] - loss [11.121]
+Epoch [2100] - Time [47756.7ms] - RE_Q [11.8661] - RE_P [715.517] - Regulation [23.2111] - loss [10.5753]
+The model has been saved
+Epoch [2200] - Time [47366ms] - RE_Q [19.1045] - RE_P [682.082] - Regulation [24.1299] - loss [14.3782]
+Epoch [2300] - Time [51529.5ms] - RE_Q [12.0173] - RE_P [987.658] - Regulation [21.6372] - loss [10.3361]
+The model has been saved
+Epoch [2400] - Time [47371.9ms] - RE_Q [9.8353] - RE_P [752.258] - Regulation [21.3325] - loss [9.18416]
+The model has been saved
+Epoch [2500] - Time [49524.8ms] - RE_Q [11.376] - RE_P [654.907] - Regulation [20.9311] - loss [9.8742]
+Epoch [2600] - Time [47518.7ms] - RE_Q [9.44571] - RE_P [423.728] - Regulation [20.3335] - loss [8.78957]
+The model has been saved
+Epoch [2700] - Time [47520.9ms] - RE_Q [8.8573] - RE_P [715.823] - Regulation [19.4794] - loss [8.32452]
+The model has been saved
+Epoch [2800] - Time [47468.4ms] - RE_Q [7.73473] - RE_P [675.762] - Regulation [19.4202] - loss [7.7514]
+The model has been saved
+Epoch [2900] - Time [47485.2ms] - RE_Q [7.07578] - RE_P [587.874] - Regulation [19.0283] - loss [7.34354]
+The model has been saved
+Epoch [3000] - Time [51207.1ms] - RE_Q [6.77709] - RE_P [561.942] - Regulation [18.3499] - loss [7.05852]
+The model has been saved
+Epoch [3100] - Time [51818.5ms] - RE_Q [7.89825] - RE_P [631.282] - Regulation [18.471] - loss [7.64333]
+Epoch [3200] - Time [56713.5ms] - RE_Q [5.97436] - RE_P [629.679] - Regulation [17.4206] - loss [6.47129]
+The model has been saved
+Epoch [3300] - Time [51953.8ms] - RE_Q [5.7024] - RE_P [501.246] - Regulation [17.249] - loss [6.30099]
+The model has been saved
+Epoch [3400] - Time [54995.8ms] - RE_Q [6.39096] - RE_P [814.819] - Regulation [17.0678] - loss [6.60904]
+Epoch [3500] - Time [59580.6ms] - RE_Q [5.47546] - RE_P [456.162] - Regulation [16.8538] - loss [6.10848]
+The model has been saved
+Epoch [3600] - Time [57296.7ms] - RE_Q [5.74152] - RE_P [692.989] - Regulation [16.0916] - loss [6.08908]
+The model has been saved
+Epoch [3700] - Time [55231.1ms] - RE_Q [5.74204] - RE_P [790.532] - Regulation [16.0779] - loss [6.08659]
+The model has been saved
+Epoch [3800] - Time [57685ms] - RE_Q [5.36195] - RE_P [580.621] - Regulation [15.6604] - loss [5.81305]
+The model has been saved
+Epoch [3900] - Time [52446.5ms] - RE_Q [4.92869] - RE_P [698.598] - Regulation [15.0392] - loss [5.47219]
+The model has been saved
+Epoch [4000] - Time [55094.3ms] - RE_Q [4.65815] - RE_P [607.636] - Regulation [15.039] - loss [5.33686]
+The model has been saved
+Epoch [4100] - Time [52629.5ms] - RE_Q [5.14268] - RE_P [492.631] - Regulation [14.7282] - loss [5.51698]
+Epoch [4200] - Time [45529.4ms] - RE_Q [5.13924] - RE_P [478.714] - Regulation [14.3358] - loss [5.43677]
+Epoch [4300] - Time [47569.7ms] - RE_Q [4.69053] - RE_P [623.659] - Regulation [13.8199] - loss [5.10925]
+The model has been saved
+Epoch [4400] - Time [49849.2ms] - RE_Q [5.37605] - RE_P [518.073] - Regulation [13.4374] - loss [5.3755]
+Epoch [4500] - Time [47544.8ms] - RE_Q [4.51768] - RE_P [641.071] - Regulation [13.3139] - loss [4.92162]
+The model has been saved
+Epoch [4600] - Time [47843.3ms] - RE_Q [5.11389] - RE_P [560.487] - Regulation [13.2817] - loss [5.21329]
+Epoch [4700] - Time [43487.4ms] - RE_Q [5.52481] - RE_P [668.111] - Regulation [13.1083] - loss [5.38406]
+Epoch [4800] - Time [43727.4ms] - RE_Q [3.86659] - RE_P [585.493] - Regulation [12.385] - loss [4.41029]
+The model has been saved
+Epoch [4900] - Time [47687ms] - RE_Q [4.66206] - RE_P [540.555] - Regulation [12.6041] - loss [4.85184]
+Epoch [5000] - Time [51882.9ms] - RE_Q [4.20562] - RE_P [860.04] - Regulation [11.8935] - loss [4.48151]
+Epoch [5100] - Time [48733.7ms] - RE_Q [3.49446] - RE_P [663.916] - Regulation [11.7777] - loss [4.10276]
+The model has been saved
+Epoch [5200] - Time [43736ms] - RE_Q [3.26941] - RE_P [547.04] - Regulation [11.7196] - loss [3.97862]
+The model has been saved
+Epoch [5300] - Time [47710.6ms] - RE_Q [3.29209] - RE_P [631.218] - Regulation [11.2193] - loss [3.8899]
+The model has been saved
+Epoch [5400] - Time [52961.9ms] - RE_Q [3.09481] - RE_P [626.429] - Regulation [10.9071] - loss [3.72882]
+The model has been saved
+Epoch [5500] - Time [43687.9ms] - RE_Q [3.65299] - RE_P [360.992] - Regulation [11.1557] - loss [4.05762]
+Epoch [5600] - Time [43605.3ms] - RE_Q [3.31078] - RE_P [536.693] - Regulation [10.8995] - loss [3.8353]
+Epoch [5700] - Time [48889.8ms] - RE_Q [3.22298] - RE_P [654.937] - Regulation [10.6899] - loss [3.74947]
+Epoch [5800] - Time [47784.1ms] - RE_Q [3.60936] - RE_P [671.741] - Regulation [10.8267] - loss [3.97002]
+Epoch [5900] - Time [43482.2ms] - RE_Q [2.87804] - RE_P [622.82] - Regulation [10.3706] - loss [3.51313]
+The model has been saved
+Epoch [6000] - Time [47552ms] - RE_Q [3.14995] - RE_P [697.531] - Regulation [10.3145] - loss [3.63787]
+Epoch [6100] - Time [43837.3ms] - RE_Q [3.09214] - RE_P [525.385] - Regulation [10.2186] - loss [3.5898]
+Epoch [6200] - Time [47504.5ms] - RE_Q [2.7155] - RE_P [649.316] - Regulation [9.78687] - loss [3.31512]
+The model has been saved
+Epoch [6300] - Time [47104.8ms] - RE_Q [2.68886] - RE_P [570.065] - Regulation [9.89047] - loss [3.32252]
+Epoch [6400] - Time [45341ms] - RE_Q [2.89686] - RE_P [606.691] - Regulation [9.7218] - loss [3.39279]
+Epoch [6500] - Time [47567.3ms] - RE_Q [2.67297] - RE_P [492.713] - Regulation [9.80515] - loss [3.29752]
+The model has been saved
+Epoch [6600] - Time [43729ms] - RE_Q [2.76212] - RE_P [368.19] - Regulation [9.49503] - loss [3.28007]
+The model has been saved
+Epoch [6700] - Time [47745.1ms] - RE_Q [3.04673] - RE_P [751.849] - Regulation [9.26689] - loss [3.37674]
+Epoch [6800] - Time [43928.2ms] - RE_Q [2.35356] - RE_P [554.136] - Regulation [8.97115] - loss [2.97101]
+The model has been saved
+Epoch [6900] - Time [46842.8ms] - RE_Q [2.67314] - RE_P [585.25] - Regulation [9.02625] - loss [3.14182]
+Epoch [7000] - Time [43739ms] - RE_Q [2.48804] - RE_P [635.15] - Regulation [9.05606] - loss [3.05523]
+Epoch [7100] - Time [50410.3ms] - RE_Q [3.41465] - RE_P [352.831] - Regulation [8.6584] - loss [3.439]
+Epoch [7200] - Time [43322.8ms] - RE_Q [2.42393] - RE_P [741.193] - Regulation [8.48927] - loss [2.90982]
+The model has been saved
+Epoch [7300] - Time [47211.9ms] - RE_Q [2.0715] - RE_P [584.969] - Regulation [8.42654] - loss [2.72106]
+The model has been saved
+Epoch [7400] - Time [47416.9ms] - RE_Q [2.3043] - RE_P [547.187] - Regulation [8.21703] - loss [2.79556]
+Epoch [7500] - Time [44688.9ms] - RE_Q [2.64305] - RE_P [456.999] - Regulation [8.53174] - loss [3.02787]
+Epoch [7600] - Time [44240.2ms] - RE_Q [2.53864] - RE_P [409.256] - Regulation [8.02776] - loss [2.87487]
+Epoch [7700] - Time [43909.5ms] - RE_Q [2.24153] - RE_P [400.788] - Regulation [8.58248] - loss [2.83726]
+Epoch [7800] - Time [48881.5ms] - RE_Q [2.30148] - RE_P [165.184] - Regulation [8.14791] - loss [2.78032]
+Epoch [7900] - Time [43582.5ms] - RE_Q [2.2686] - RE_P [612.789] - Regulation [7.58419] - loss [2.65114]
+The model has been saved
+Epoch [8000] - Time [46192.2ms] - RE_Q [2.13422] - RE_P [589.476] - Regulation [7.91108] - loss [2.64933]
+The model has been saved
+Epoch [8100] - Time [44852.4ms] - RE_Q [2.08901] - RE_P [378.958] - Regulation [7.80494] - loss [2.6055]
+The model has been saved
+Epoch [8200] - Time [45643.9ms] - RE_Q [2.65636] - RE_P [324.665] - Regulation [7.80873] - loss [2.88993]
+Epoch [8300] - Time [45796.5ms] - RE_Q [2.33175] - RE_P [341.554] - Regulation [7.55173] - loss [2.67622]
+Epoch [8400] - Time [48351.5ms] - RE_Q [2.2038] - RE_P [602.403] - Regulation [7.62767] - loss [2.62743]
+Epoch [8500] - Time [46405.1ms] - RE_Q [2.17521] - RE_P [355.062] - Regulation [7.44343] - loss [2.57629]
+The model has been saved
+Epoch [8600] - Time [47429.7ms] - RE_Q [2.18741] - RE_P [466.042] - Regulation [7.36908] - loss [2.56752]
+The model has been saved
+Epoch [8700] - Time [45601.3ms] - RE_Q [1.99407] - RE_P [276.558] - Regulation [7.31767] - loss [2.46057]
+The model has been saved
+Epoch [8800] - Time [47563.8ms] - RE_Q [1.81333] - RE_P [460.47] - Regulation [7.5555] - loss [2.41777]
+The model has been saved
+Epoch [8900] - Time [44247.4ms] - RE_Q [1.99204] - RE_P [407.042] - Regulation [7.21627] - loss [2.43927]
+Epoch [9000] - Time [47029.9ms] - RE_Q [2.4143] - RE_P [382.905] - Regulation [7.36846] - loss [2.68084]
+Epoch [9100] - Time [49097ms] - RE_Q [2.01177] - RE_P [454.88] - Regulation [6.71076] - loss [2.34804]
+The model has been saved
+Epoch [9200] - Time [44231.4ms] - RE_Q [1.96806] - RE_P [457.436] - Regulation [7.03028] - loss [2.39008]
+Epoch [9300] - Time [47199.6ms] - RE_Q [2.09993] - RE_P [642.794] - Regulation [6.8113] - loss [2.41223]
+Epoch [9400] - Time [47797.6ms] - RE_Q [2.07056] - RE_P [502.257] - Regulation [6.68467] - loss [2.37221]
+Epoch [9500] - Time [43902.7ms] - RE_Q [2.0833] - RE_P [433.834] - Regulation [7.02653] - loss [2.44696]
+Epoch [9600] - Time [43702.5ms] - RE_Q [1.97858] - RE_P [385.714] - Regulation [6.46634] - loss [2.28256]
+The model has been saved
+Epoch [9700] - Time [43498.3ms] - RE_Q [2.45814] - RE_P [788.864] - Regulation [6.64143] - loss [2.55736]
+Epoch [9800] - Time [48861ms] - RE_Q [2.04101] - RE_P [374.546] - Regulation [6.8093] - loss [2.38236]
+Epoch [9900] - Time [43570ms] - RE_Q [2.01649] - RE_P [414.181] - Regulation [6.66968] - loss [2.34218]
+Epoch [10000] - Time [47696.2ms] - RE_Q [2.75874] - RE_P [393.708] - Regulation [6.91192] - loss [2.76176]
+Epoch [10100] - Time [43646.8ms] - RE_Q [1.9545] - RE_P [390.808] - Regulation [6.48414] - loss [2.27408]
+The model has been saved
+Epoch [10200] - Time [47799.2ms] - RE_Q [2.07441] - RE_P [206.499] - Regulation [6.15675] - loss [2.26856]
+The model has been saved
+Epoch [10300] - Time [47442.4ms] - RE_Q [2.35988] - RE_P [146.766] - Regulation [6.22478] - loss [2.42489]
+Epoch [10400] - Time [43715.9ms] - RE_Q [1.97721] - RE_P [788.395] - Regulation [6.33381] - loss [2.25537]
+The model has been saved
+Epoch [10500] - Time [49161.9ms] - RE_Q [1.78942] - RE_P [210.605] - Regulation [6.07047] - loss [2.10881]
+The model has been saved
+Epoch [10600] - Time [43830ms] - RE_Q [2.01337] - RE_P [200.037] - Regulation [6.47479] - loss [2.30164]
+Epoch [10700] - Time [47819.6ms] - RE_Q [1.84592] - RE_P [182.161] - Regulation [5.98366] - loss [2.11969]
+Epoch [10800] - Time [50037.6ms] - RE_Q [1.82799] - RE_P [382.736] - Regulation [5.89136] - loss [2.09227]
+The model has been saved
+Epoch [10900] - Time [44090ms] - RE_Q [1.93195] - RE_P [325.286] - Regulation [5.69892] - loss [2.10576]
+Epoch [11000] - Time [43650.7ms] - RE_Q [1.61121] - RE_P [373.349] - Regulation [5.51297] - loss [1.9082]
+The model has been saved
+Epoch [11100] - Time [44242.7ms] - RE_Q [1.66022] - RE_P [171.766] - Regulation [5.4791] - loss [1.92593]
+Epoch [11200] - Time [48737ms] - RE_Q [1.75733] - RE_P [201.779] - Regulation [5.24362] - loss [1.92739]
+Epoch [11300] - Time [43929.2ms] - RE_Q [1.81878] - RE_P [147.573] - Regulation [5.2465] - loss [1.95869]
+Epoch [11400] - Time [47917.7ms] - RE_Q [1.65644] - RE_P [91.5871] - Regulation [5.03158] - loss [1.83454]
+The model has been saved
+Epoch [11500] - Time [48175.3ms] - RE_Q [1.68617] - RE_P [262.076] - Regulation [5.20306] - loss [1.8837]
+Epoch [11600] - Time [43765.7ms] - RE_Q [1.53917] - RE_P [169.348] - Regulation [4.995] - loss [1.76858]
+The model has been saved
+Epoch [11700] - Time [43930.3ms] - RE_Q [1.63322] - RE_P [144.053] - Regulation [4.92585] - loss [1.80178]
+Epoch [11800] - Time [44569ms] - RE_Q [1.64324] - RE_P [133.277] - Regulation [4.7002] - loss [1.76166]
+The model has been saved
+Epoch [11900] - Time [48096ms] - RE_Q [1.55998] - RE_P [216.491] - Regulation [4.69112] - loss [1.71821]
+The model has been saved
+Epoch [12000] - Time [44374.5ms] - RE_Q [1.74768] - RE_P [169.773] - Regulation [4.67802] - loss [1.80944]
+Epoch [12100] - Time [48672.6ms] - RE_Q [1.60931] - RE_P [319.659] - Regulation [4.56313] - loss [1.71728]
+The model has been saved
+Epoch [12200] - Time [45968.7ms] - RE_Q [1.55611] - RE_P [104.255] - Regulation [4.50808] - loss [1.67967]
+The model has been saved
+Epoch [12300] - Time [45447.6ms] - RE_Q [1.49271] - RE_P [114.405] - Regulation [4.28534] - loss [1.60342]
+The model has been saved
+Epoch [12400] - Time [47566.2ms] - RE_Q [1.52717] - RE_P [150.677] - Regulation [4.34278] - loss [1.63214]
+Epoch [12500] - Time [50987.2ms] - RE_Q [1.5068] - RE_P [131.757] - Regulation [4.12836] - loss [1.57907]
+The model has been saved
+Epoch [12600] - Time [45387.1ms] - RE_Q [1.61675] - RE_P [107.559] - Regulation [4.01641] - loss [1.61166]
+Epoch [12700] - Time [47739.9ms] - RE_Q [1.53222] - RE_P [58.445] - Regulation [4.16035] - loss [1.59818]
+Epoch [12800] - Time [47965.7ms] - RE_Q [1.53106] - RE_P [134.133] - Regulation [3.99433] - loss [1.5644]
+The model has been saved
+Epoch [12900] - Time [45337ms] - RE_Q [1.55683] - RE_P [71.2657] - Regulation [3.75133] - loss [1.52868]
+The model has been saved
+Epoch [13000] - Time [47587.7ms] - RE_Q [1.48712] - RE_P [113.689] - Regulation [4.06353] - loss [1.55627]
+Epoch [13100] - Time [47708.8ms] - RE_Q [1.45178] - RE_P [131.374] - Regulation [3.95111] - loss [1.51611]
+The model has been saved
+Epoch [13200] - Time [48837ms] - RE_Q [1.47817] - RE_P [77.2642] - Regulation [3.91004] - loss [1.52109]
+Epoch [13300] - Time [47708.4ms] - RE_Q [1.38301] - RE_P [48.8536] - Regulation [3.4341] - loss [1.37832]
+The model has been saved
+Epoch [13400] - Time [44777.8ms] - RE_Q [1.50805] - RE_P [30.7988] - Regulation [3.49788] - loss [1.4536]
+Epoch [13500] - Time [46557.6ms] - RE_Q [1.33531] - RE_P [39.7605] - Regulation [3.40237] - loss [1.34813]
+The model has been saved
+Epoch [13600] - Time [45125.3ms] - RE_Q [1.43151] - RE_P [139.776] - Regulation [3.53774] - loss [1.42331]
+Epoch [13700] - Time [43459.2ms] - RE_Q [1.42696] - RE_P [81.4417] - Regulation [3.30718] - loss [1.37492]
+Epoch [13800] - Time [47946.6ms] - RE_Q [1.30679] - RE_P [111.056] - Regulation [3.22377] - loss [1.29815]
+The model has been saved
+Epoch [13900] - Time [45456.6ms] - RE_Q [1.27446] - RE_P [32.3459] - Regulation [3.27657] - loss [1.29255]
+The model has been saved
+Epoch [14000] - Time [48037.2ms] - RE_Q [1.33633] - RE_P [73.89] - Regulation [3.22146] - loss [1.31246]
+Epoch [14100] - Time [47298.6ms] - RE_Q [1.40783] - RE_P [25.0083] - Regulation [3.19689] - loss [1.34329]
+Epoch [14200] - Time [47823.8ms] - RE_Q [1.32105] - RE_P [38.4552] - Regulation [2.85561] - loss [1.23165]
+The model has been saved
+Epoch [14300] - Time [44203.2ms] - RE_Q [1.48591] - RE_P [91.9958] - Regulation [3.28367] - loss [1.39969]
+Epoch [14400] - Time [47941.8ms] - RE_Q [1.19829] - RE_P [54.5304] - Regulation [2.83536] - loss [1.16622]
+The model has been saved
+Epoch [14500] - Time [48944.4ms] - RE_Q [1.3181] - RE_P [30.5421] - Regulation [3.10106] - loss [1.27926]
+Epoch [14600] - Time [47801.3ms] - RE_Q [1.29772] - RE_P [35.7649] - Regulation [2.93996] - loss [1.23685]
+Epoch [14700] - Time [47974.2ms] - RE_Q [1.18512] - RE_P [65.6067] - Regulation [2.49622] - loss [1.0918]
+The model has been saved
+Epoch [14800] - Time [45579.8ms] - RE_Q [1.16911] - RE_P [65.8775] - Regulation [2.80125] - loss [1.1448]
+Epoch [14900] - Time [43647.4ms] - RE_Q [1.06686] - RE_P [38.2636] - Regulation [2.32665] - loss [0.998761]
+The model has been saved
+Epoch [15000] - Time [47583.2ms] - RE_Q [1.12929] - RE_P [11.635] - Regulation [2.62418] - loss [1.08948]
+Epoch [15100] - Time [43794.4ms] - RE_Q [1.19292] - RE_P [25.997] - Regulation [2.58445] - loss [1.11335]
+Epoch [15200] - Time [49227.4ms] - RE_Q [1.1389] - RE_P [53.0143] - Regulation [2.59754] - loss [1.08896]
+Epoch [15300] - Time [45931.6ms] - RE_Q [1.20311] - RE_P [68.1133] - Regulation [2.73199] - loss [1.14795]
+Epoch [15400] - Time [48016.2ms] - RE_Q [1.16956] - RE_P [11.6851] - Regulation [2.45572] - loss [1.07592]
+Epoch [15500] - Time [47746.5ms] - RE_Q [1.13038] - RE_P [9.62581] - Regulation [2.51847] - loss [1.06889]
+Epoch [15600] - Time [43763.8ms] - RE_Q [1.04645] - RE_P [25.9856] - Regulation [2.41261] - loss [1.00575]
+Epoch [15700] - Time [51885.3ms] - RE_Q [1.0049] - RE_P [11.5471] - Regulation [2.1818] - loss [0.938812]
+The model has been saved
+Epoch [15800] - Time [43800.7ms] - RE_Q [1.1036] - RE_P [3.87387] - Regulation [2.59422] - loss [1.07065]
+Epoch [15900] - Time [48686.1ms] - RE_Q [0.973135] - RE_P [5.39478] - Regulation [2.24795] - loss [0.936158]
+The model has been saved
+Epoch [16000] - Time [47593.2ms] - RE_Q [0.973117] - RE_P [13.1811] - Regulation [2.12389] - loss [0.911337]
+The model has been saved
+Epoch [16100] - Time [47311.8ms] - RE_Q [1.01014] - RE_P [13.6274] - Regulation [2.22003] - loss [0.949077]
+Epoch [16200] - Time [47953.5ms] - RE_Q [1.0379] - RE_P [12.1564] - Regulation [2.22054] - loss [0.963059]
+Epoch [16300] - Time [43770.5ms] - RE_Q [1.01661] - RE_P [6.02316] - Regulation [2.24896] - loss [0.958098]
+Epoch [16400] - Time [47916.9ms] - RE_Q [1.05813] - RE_P [9.4992] - Regulation [2.37317] - loss [1.0037]
+Epoch [16500] - Time [49090.9ms] - RE_Q [0.990307] - RE_P [5.85084] - Regulation [2.00836] - loss [0.896826]
+The model has been saved
+Epoch [16600] - Time [48009ms] - RE_Q [0.932496] - RE_P [7.3717] - Regulation [2.06146] - loss [0.878541]
+The model has been saved
+Epoch [16700] - Time [47645.6ms] - RE_Q [0.905072] - RE_P [4.06118] - Regulation [2.13333] - loss [0.879203]
+Epoch [16800] - Time [49877.9ms] - RE_Q [0.991383] - RE_P [13.7177] - Regulation [1.993] - loss [0.894291]
+Epoch [16900] - Time [47696.2ms] - RE_Q [0.961444] - RE_P [3.84159] - Regulation [2.17023] - loss [0.914769]
+Epoch [17000] - Time [47859.9ms] - RE_Q [0.996186] - RE_P [7.1254] - Regulation [2.12036] - loss [0.922165]
+Epoch [17100] - Time [48017.6ms] - RE_Q [0.929466] - RE_P [5.85793] - Regulation [1.91354] - loss [0.847442]
+The model has been saved
+Epoch [17200] - Time [49457.1ms] - RE_Q [0.91567] - RE_P [7.03693] - Regulation [2.28172] - loss [0.914178]
+Epoch [17300] - Time [47725.7ms] - RE_Q [0.8693] - RE_P [5.11456] - Regulation [1.90738] - loss [0.816125]
+The model has been saved
+Epoch [17400] - Time [47845.4ms] - RE_Q [0.893172] - RE_P [2.11354] - Regulation [1.96888] - loss [0.840362]
+Epoch [17500] - Time [43950.7ms] - RE_Q [0.912386] - RE_P [8.1649] - Regulation [1.83056] - loss [0.822304]
+Epoch [17600] - Time [47853.3ms] - RE_Q [0.903659] - RE_P [11.9845] - Regulation [1.88268] - loss [0.828366]
+Epoch [17700] - Time [47925.8ms] - RE_Q [0.857195] - RE_P [3.97527] - Regulation [1.71471] - loss [0.771539]
+The model has been saved
+Epoch [17800] - Time [49142.5ms] - RE_Q [0.864037] - RE_P [4.0086] - Regulation [1.84952] - loss [0.801923]
+Epoch [17900] - Time [48423.1ms] - RE_Q [0.90263] - RE_P [3.1911] - Regulation [1.9325] - loss [0.837814]
+Epoch [18000] - Time [48032.6ms] - RE_Q [0.82572] - RE_P [5.82408] - Regulation [1.83286] - loss [0.779432]
+Epoch [18100] - Time [47943.2ms] - RE_Q [0.799516] - RE_P [5.75093] - Regulation [1.73429] - loss [0.746615]
+The model has been saved
+Epoch [18200] - Time [48093.3ms] - RE_Q [0.812523] - RE_P [3.75296] - Regulation [1.75841] - loss [0.757944]
+Epoch [18300] - Time [48072.3ms] - RE_Q [0.859785] - RE_P [2.21374] - Regulation [1.68444] - loss [0.766779]
+Epoch [18400] - Time [48018.5ms] - RE_Q [0.804311] - RE_P [1.5197] - Regulation [1.77486] - loss [0.757128]
+Epoch [18500] - Time [51004ms] - RE_Q [0.791947] - RE_P [2.53954] - Regulation [1.73878] - loss [0.743729]
+The model has been saved
+Epoch [18600] - Time [52396.2ms] - RE_Q [0.887431] - RE_P [2.11806] - Regulation [1.67675] - loss [0.779066]
+Epoch [18700] - Time [43601ms] - RE_Q [0.78988] - RE_P [2.14033] - Regulation [1.6765] - loss [0.730239]
+The model has been saved
+Epoch [18800] - Time [47672.6ms] - RE_Q [0.763708] - RE_P [2.35495] - Regulation [1.68748] - loss [0.71935]
+The model has been saved
+Epoch [18900] - Time [51482.2ms] - RE_Q [0.805952] - RE_P [2.14693] - Regulation [1.56812] - loss [0.7166]
+The model has been saved
+Epoch [19000] - Time [44150.3ms] - RE_Q [0.839926] - RE_P [8.1649] - Regulation [1.66752] - loss [0.753466]
+Epoch [19100] - Time [48007.8ms] - RE_Q [0.780243] - RE_P [2.53239] - Regulation [1.58068] - loss [0.706258]
+The model has been saved
+Epoch [19200] - Time [43775.9ms] - RE_Q [0.796854] - RE_P [4.41351] - Regulation [1.57267] - loss [0.712962]
+Epoch [19300] - Time [49607.2ms] - RE_Q [0.860564] - RE_P [4.03405] - Regulation [1.65104] - loss [0.760489]
+Epoch [19400] - Time [47737.1ms] - RE_Q [0.7891] - RE_P [3.81025] - Regulation [1.50661] - loss [0.695873]
+The model has been saved
+Epoch [19500] - Time [48150.1ms] - RE_Q [0.80411] - RE_P [1.98272] - Regulation [1.61645] - loss [0.725346]
+Epoch [19600] - Time [49137.8ms] - RE_Q [0.807531] - RE_P [1.71602] - Regulation [1.6696] - loss [0.737686]
+Epoch [19700] - Time [49029.6ms] - RE_Q [0.843672] - RE_P [2.47666] - Regulation [1.56894] - loss [0.735625]
+Epoch [19800] - Time [53228.7ms] - RE_Q [0.809773] - RE_P [2.69922] - Regulation [1.71114] - loss [0.747115]
+Epoch [19900] - Time [49666ms] - RE_Q [0.74878] - RE_P [2.60456] - Regulation [1.5056] - loss [0.675509]
+The model has been saved
+Epoch [20000] - Time [49259.5ms] - RE_Q [0.752089] - RE_P [1.95963] - Regulation [1.44674] - loss [0.665392]
+The model has been saved
+Epoch [20100] - Time [47786.5ms] - RE_Q [0.81565] - RE_P [4.57043] - Regulation [1.56329] - loss [0.720483]
+Epoch [20200] - Time [44433.4ms] - RE_Q [0.783186] - RE_P [2.12705] - Regulation [1.49028] - loss [0.68965]
+Epoch [20300] - Time [49530ms] - RE_Q [0.750206] - RE_P [2.67509] - Regulation [1.39799] - loss [0.654701]
+The model has been saved
+Epoch [20400] - Time [47812.7ms] - RE_Q [0.768587] - RE_P [2.79615] - Regulation [1.69763] - loss [0.72382]
+Epoch [20500] - Time [43792.5ms] - RE_Q [0.720061] - RE_P [2.90118] - Regulation [1.28154] - loss [0.616339]
+The model has been saved
+Epoch [20600] - Time [47824.1ms] - RE_Q [0.762102] - RE_P [2.05613] - Regulation [1.49443] - loss [0.679938]
+Epoch [20700] - Time [50504ms] - RE_Q [0.882209] - RE_P [1.58512] - Regulation [1.57449] - loss [0.756003]
+Epoch [20800] - Time [52206.2ms] - RE_Q [0.719099] - RE_P [2.30999] - Regulation [1.31193] - loss [0.621936]
+Epoch [20900] - Time [47627.3ms] - RE_Q [0.859955] - RE_P [2.53052] - Regulation [1.63237] - loss [0.756451]
+Epoch [21000] - Time [47827.6ms] - RE_Q [0.775036] - RE_P [1.56721] - Regulation [1.52479] - loss [0.692477]
+Epoch [21100] - Time [43739.2ms] - RE_Q [0.791411] - RE_P [1.91138] - Regulation [1.36722] - loss [0.66915]
+Epoch [21200] - Time [47965.3ms] - RE_Q [0.7003] - RE_P [2.71028] - Regulation [1.33741] - loss [0.617632]
+Epoch [21300] - Time [48873.1ms] - RE_Q [0.730754] - RE_P [4.41425] - Regulation [1.42714] - loss [0.650804]
+Epoch [21400] - Time [43351.2ms] - RE_Q [0.75893] - RE_P [1.96949] - Regulation [1.52495] - loss [0.684456]
+Epoch [21500] - Time [47808.9ms] - RE_Q [0.733513] - RE_P [1.76929] - Regulation [1.41956] - loss [0.650668]
+Epoch [21600] - Time [51891.8ms] - RE_Q [0.730421] - RE_P [2.25388] - Regulation [1.43268] - loss [0.651747]
+Epoch [21700] - Time [47913.2ms] - RE_Q [0.748378] - RE_P [2.71626] - Regulation [1.4032] - loss [0.654828]
+Epoch [21800] - Time [43575.8ms] - RE_Q [0.791743] - RE_P [4.42232] - Regulation [1.33831] - loss [0.663534]
+Epoch [21900] - Time [47512ms] - RE_Q [0.887189] - RE_P [2.66212] - Regulation [1.59142] - loss [0.761877]
+Epoch [22000] - Time [49184.6ms] - RE_Q [0.789471] - RE_P [2.65644] - Regulation [1.50688] - loss [0.696111]
+Epoch [22100] - Time [47962.3ms] - RE_Q [0.812904] - RE_P [1.98985] - Regulation [1.39423] - loss [0.685298]
+Epoch [22200] - Time [47854.3ms] - RE_Q [0.657202] - RE_P [4.74378] - Regulation [1.25943] - loss [0.580486]
+The model has been saved
+Epoch [22300] - Time [47714.5ms] - RE_Q [0.770604] - RE_P [2.8736] - Regulation [1.4709] - loss [0.679482]
+Epoch [22400] - Time [47526.5ms] - RE_Q [0.741674] - RE_P [1.97039] - Regulation [1.34044] - loss [0.638924]
+Epoch [22500] - Time [43579.4ms] - RE_Q [0.833477] - RE_P [1.27605] - Regulation [1.39275] - loss [0.695288]
+Epoch [22600] - Time [46853ms] - RE_Q [0.803737] - RE_P [2.62741] - Regulation [1.45959] - loss [0.693787]
+Epoch [22700] - Time [45989.1ms] - RE_Q [0.777591] - RE_P [1.50164] - Regulation [1.54672] - loss [0.698139]
+Epoch [22800] - Time [47882ms] - RE_Q [0.735938] - RE_P [2.8136] - Regulation [1.36106] - loss [0.640181]
+Epoch [22900] - Time [48244.3ms] - RE_Q [0.777263] - RE_P [2.00688] - Regulation [1.51543] - loss [0.691717]
+Epoch [23000] - Time [45842.3ms] - RE_Q [0.765257] - RE_P [1.34078] - Regulation [1.34012] - loss [0.650652]
+Epoch [23100] - Time [49870.3ms] - RE_Q [0.708112] - RE_P [4.06125] - Regulation [1.38566] - loss [0.631188]
+Epoch [23200] - Time [47900.4ms] - RE_Q [0.697342] - RE_P [2.05129] - Regulation [1.29476] - loss [0.607622]
+Epoch [23300] - Time [48228.4ms] - RE_Q [0.685021] - RE_P [2.66856] - Regulation [1.2691] - loss [0.59633]
+Epoch [23400] - Time [50139.4ms] - RE_Q [0.901847] - RE_P [1.99837] - Regulation [1.8] - loss [0.810923]
+Epoch [23500] - Time [47787.8ms] - RE_Q [0.704673] - RE_P [1.37199] - Regulation [1.36727] - loss [0.62579]
+Epoch [23600] - Time [44722.3ms] - RE_Q [0.665923] - RE_P [2.4583] - Regulation [1.222] - loss [0.577362]
+The model has been saved
+Epoch [23700] - Time [50913.1ms] - RE_Q [0.710114] - RE_P [1.18158] - Regulation [1.28358] - loss [0.611773]
+Epoch [23800] - Time [47547ms] - RE_Q [0.791079] - RE_P [1.58138] - Regulation [1.47892] - loss [0.691324]
+Epoch [23900] - Time [46892.6ms] - RE_Q [0.712317] - RE_P [2.35374] - Regulation [1.41202] - loss [0.638562]
+Epoch [24000] - Time [53138.8ms] - RE_Q [0.697897] - RE_P [2.96354] - Regulation [1.33641] - loss [0.61623]
+Epoch [24100] - Time [48422.3ms] - RE_Q [0.739245] - RE_P [2.03595] - Regulation [1.50364] - loss [0.670352]
+Epoch [24200] - Time [43675.9ms] - RE_Q [0.685867] - RE_P [2.04998] - Regulation [1.23229] - loss [0.589391]
+Epoch [24300] - Time [47818.7ms] - RE_Q [0.655705] - RE_P [1.42843] - Regulation [1.1564] - loss [0.559132]
+The model has been saved
+Epoch [24400] - Time [47690.4ms] - RE_Q [0.67503] - RE_P [2.19172] - Regulation [1.16219] - loss [0.569953]
+Epoch [24500] - Time [47865ms] - RE_Q [0.672518] - RE_P [1.81572] - Regulation [1.22458] - loss [0.581176]
+Epoch [24600] - Time [48064.5ms] - RE_Q [0.70494] - RE_P [2.47527] - Regulation [1.22188] - loss [0.596846]
+Epoch [24700] - Time [51908.8ms] - RE_Q [0.756254] - RE_P [1.77227] - Regulation [1.29243] - loss [0.636613]
+Epoch [24800] - Time [47674.8ms] - RE_Q [0.728643] - RE_P [1.2192] - Regulation [1.42171] - loss [0.648664]
+Epoch [24900] - Time [47871.9ms] - RE_Q [0.682563] - RE_P [1.73796] - Regulation [1.33601] - loss [0.608483]
+Epoch [25000] - Time [47962.6ms] - RE_Q [0.682059] - RE_P [1.44004] - Regulation [1.2688] - loss [0.59479]
+Epoch [25100] - Time [47622.7ms] - RE_Q [0.699123] - RE_P [2.16019] - Regulation [1.26907] - loss [0.603375]
+Epoch [25200] - Time [43647.9ms] - RE_Q [0.672435] - RE_P [1.32589] - Regulation [1.21101] - loss [0.57842]
+Epoch [25300] - Time [47738.4ms] - RE_Q [0.613166] - RE_P [1.84606] - Regulation [1.20153] - loss [0.546889]
+The model has been saved
+Epoch [25400] - Time [48701.3ms] - RE_Q [0.697708] - RE_P [1.81834] - Regulation [1.23483] - loss [0.595821]
+Epoch [25500] - Time [47524.7ms] - RE_Q [0.81225] - RE_P [1.84474] - Regulation [1.3588] - loss [0.677885]
+Epoch [25600] - Time [47835.4ms] - RE_Q [0.6781] - RE_P [1.47078] - Regulation [1.17471] - loss [0.573993]
+Epoch [25700] - Time [47520.3ms] - RE_Q [0.737979] - RE_P [1.61832] - Regulation [1.34984] - loss [0.638957]
+Epoch [25800] - Time [47764.3ms] - RE_Q [0.644678] - RE_P [1.26615] - Regulation [1.28721] - loss [0.579781]
+Epoch [25900] - Time [51624.6ms] - RE_Q [0.702926] - RE_P [1.80026] - Regulation [1.20944] - loss [0.593351]
+Epoch [26000] - Time [49079.3ms] - RE_Q [0.709065] - RE_P [1.35596] - Regulation [1.26551] - loss [0.607635]
+Epoch [26100] - Time [48797.6ms] - RE_Q [0.730189] - RE_P [2.53224] - Regulation [1.44492] - loss [0.654079]
+Epoch [26200] - Time [47700.2ms] - RE_Q [0.659493] - RE_P [1.44721] - Regulation [1.32632] - loss [0.595009]
+Epoch [26300] - Time [47515.5ms] - RE_Q [0.663077] - RE_P [1.42106] - Regulation [1.16545] - loss [0.564629]
+Epoch [26400] - Time [47700.9ms] - RE_Q [0.743688] - RE_P [1.45358] - Regulation [1.27858] - loss [0.62756]
+Epoch [26500] - Time [47955.8ms] - RE_Q [0.748592] - RE_P [1.56322] - Regulation [1.27184] - loss [0.628663]
+Epoch [26600] - Time [47975.3ms] - RE_Q [0.717753] - RE_P [1.60814] - Regulation [1.24969] - loss [0.608815]
+Epoch [26700] - Time [49382.1ms] - RE_Q [0.703296] - RE_P [1.55399] - Regulation [1.21016] - loss [0.593679]
+Epoch [26800] - Time [47999.9ms] - RE_Q [0.612043] - RE_P [1.39174] - Regulation [1.10014] - loss [0.526049]
+The model has been saved
+Epoch [26900] - Time [48013.9ms] - RE_Q [0.673351] - RE_P [1.07147] - Regulation [1.18502] - loss [0.57368]
+Epoch [27000] - Time [47868.9ms] - RE_Q [0.675522] - RE_P [1.50047] - Regulation [1.36178] - loss [0.610116]
+Epoch [27100] - Time [47341.8ms] - RE_Q [0.614101] - RE_P [1.31737] - Regulation [1.17944] - loss [0.542939]
+Epoch [27200] - Time [47901.7ms] - RE_Q [0.658079] - RE_P [1.53094] - Regulation [1.22313] - loss [0.573666]
+Epoch [27300] - Time [50275.5ms] - RE_Q [0.95123] - RE_P [1.53286] - Regulation [1.51844] - loss [0.779302]
+Epoch [27400] - Time [51494.8ms] - RE_Q [0.635242] - RE_P [0.952558] - Regulation [1.15692] - loss [0.549005]
+Epoch [27500] - Time [47755.7ms] - RE_Q [0.765267] - RE_P [2.38258] - Regulation [1.27921] - loss [0.638475]
+Epoch [27600] - Time [47698ms] - RE_Q [0.788508] - RE_P [1.43223] - Regulation [1.47975] - loss [0.690204]
+Epoch [27700] - Time [51674.3ms] - RE_Q [0.783155] - RE_P [1.61329] - Regulation [1.3085] - loss [0.653277]
+Epoch [27800] - Time [43380.7ms] - RE_Q [0.770266] - RE_P [1.73102] - Regulation [1.43274] - loss [0.67168]
+Epoch [27900] - Time [47607.4ms] - RE_Q [0.662779] - RE_P [2.58267] - Regulation [1.26458] - loss [0.584306]
+Epoch [28000] - Time [48660.8ms] - RE_Q [0.724999] - RE_P [1.40225] - Regulation [1.23118] - loss [0.608735]
+Epoch [28100] - Time [47457.6ms] - RE_Q [0.639393] - RE_P [1.59134] - Regulation [1.15518] - loss [0.550732]
+Epoch [28200] - Time [43425.2ms] - RE_Q [0.677008] - RE_P [1.76504] - Regulation [1.23352] - loss [0.585209]
+Epoch [28300] - Time [48436.1ms] - RE_Q [0.695022] - RE_P [1.4769] - Regulation [1.14185] - loss [0.575881]
+Epoch [28400] - Time [47788.3ms] - RE_Q [0.637787] - RE_P [1.78553] - Regulation [1.13072] - loss [0.545037]
+Epoch [28500] - Time [47789ms] - RE_Q [0.603212] - RE_P [1.31015] - Regulation [1.03759] - loss [0.509124]
+The model has been saved
+Epoch [28600] - Time [43648.6ms] - RE_Q [0.670719] - RE_P [1.8092] - Regulation [1.13031] - loss [0.561421]
+Epoch [28700] - Time [49188.4ms] - RE_Q [0.665419] - RE_P [1.17057] - Regulation [1.0831] - loss [0.549328]
+Epoch [28800] - Time [47548.8ms] - RE_Q [0.620728] - RE_P [1.22814] - Regulation [1.13675] - loss [0.537713]
+Epoch [28900] - Time [47829.2ms] - RE_Q [0.665923] - RE_P [1.7792] - Regulation [1.12585] - loss [0.558131]
+Epoch [29000] - Time [44324.9ms] - RE_Q [0.689865] - RE_P [1.64838] - Regulation [1.2343] - loss [0.591792]
+Epoch [29100] - Time [51873.7ms] - RE_Q [0.638058] - RE_P [0.780561] - Regulation [1.25987] - loss [0.571003]
+Epoch [29200] - Time [47890.7ms] - RE_Q [0.589827] - RE_P [0.950073] - Regulation [1.04751] - loss [0.504415]
+The model has been saved
+Epoch [29300] - Time [43942.4ms] - RE_Q [0.660589] - RE_P [1.07297] - Regulation [1.14249] - loss [0.558792]
+Epoch [29400] - Time [48719.6ms] - RE_Q [0.6538] - RE_P [1.35216] - Regulation [1.16288] - loss [0.559475]
+Epoch [29500] - Time [43541.5ms] - RE_Q [0.676184] - RE_P [1.259] - Regulation [1.23359] - loss [0.584809]
+Epoch [29600] - Time [47525ms] - RE_Q [0.630294] - RE_P [1.40046] - Regulation [1.12531] - loss [0.540209]
+Epoch [29700] - Time [47742.8ms] - RE_Q [0.625318] - RE_P [0.850062] - Regulation [1.11907] - loss [0.536474]
+Epoch [29800] - Time [43580.9ms] - RE_Q [0.632585] - RE_P [2.07365] - Regulation [1.09038] - loss [0.534369]
+Epoch [29900] - Time [47824ms] - RE_Q [0.665037] - RE_P [1.82236] - Regulation [1.23005] - loss [0.578528]
+Epoch [30000] - Time [48759.3ms] - RE_Q [0.666586] - RE_P [1.17269] - Regulation [1.24704] - loss [0.582702]
+Epoch [30100] - Time [47857.4ms] - RE_Q [0.593055] - RE_P [1.74275] - Regulation [1.20215] - loss [0.536957]
+Epoch [30200] - Time [47567.4ms] - RE_Q [0.632982] - RE_P [0.885353] - Regulation [1.09826] - loss [0.536143]
+Epoch [30300] - Time [47792.6ms] - RE_Q [0.647718] - RE_P [1.13557] - Regulation [1.14851] - loss [0.55356]
+Epoch [30400] - Time [47391.5ms] - RE_Q [0.649951] - RE_P [1.3401] - Regulation [1.11334] - loss [0.547643]
+Epoch [30500] - Time [46930.6ms] - RE_Q [0.627634] - RE_P [1.00834] - Regulation [1.09865] - loss [0.533547]
+Epoch [30600] - Time [44725.1ms] - RE_Q [0.658339] - RE_P [1.28493] - Regulation [1.11786] - loss [0.552742]
+Epoch [30700] - Time [48685.4ms] - RE_Q [0.643677] - RE_P [1.61294] - Regulation [1.14894] - loss [0.551626]
+Epoch [30800] - Time [47864.2ms] - RE_Q [0.640602] - RE_P [1.05431] - Regulation [1.07267] - loss [0.534834]
+Epoch [30900] - Time [47993.8ms] - RE_Q [0.639335] - RE_P [1.50903] - Regulation [1.12631] - loss [0.54493]
+Epoch [31000] - Time [47875.4ms] - RE_Q [0.676113] - RE_P [1.89112] - Regulation [1.07932] - loss [0.553921]
+Epoch [31100] - Time [46444ms] - RE_Q [0.70582] - RE_P [1.04244] - Regulation [1.20768] - loss [0.594445]
+Epoch [31200] - Time [44931.8ms] - RE_Q [0.687811] - RE_P [1.20731] - Regulation [1.11069] - loss [0.566044]
+Epoch [31300] - Time [44256.6ms] - RE_Q [0.62939] - RE_P [1.03798] - Regulation [1.13141] - loss [0.540977]
+Epoch [31400] - Time [48405.6ms] - RE_Q [0.76824] - RE_P [1.59609] - Regulation [1.2721] - loss [0.638539]
+Epoch [31500] - Time [46359.9ms] - RE_Q [0.640042] - RE_P [1.81636] - Regulation [1.07319] - loss [0.534659]
+Epoch [31600] - Time [45247.3ms] - RE_Q [0.618052] - RE_P [1.09601] - Regulation [1.07497] - loss [0.52402]
+Epoch [31700] - Time [48373.8ms] - RE_Q [0.667607] - RE_P [1.36274] - Regulation [1.10402] - loss [0.554607]
+Epoch [31800] - Time [46218.6ms] - RE_Q [0.651194] - RE_P [1.45387] - Regulation [1.04899] - loss [0.535394]
+Epoch [31900] - Time [47661.8ms] - RE_Q [0.623039] - RE_P [1.28091] - Regulation [1.13268] - loss [0.538056]
+Epoch [32000] - Time [49602.7ms] - RE_Q [0.698067] - RE_P [1.34948] - Regulation [1.14266] - loss [0.577564]
+Epoch [32100] - Time [47586.1ms] - RE_Q [0.696902] - RE_P [1.34421] - Regulation [1.19749] - loss [0.58795]
+Epoch [32200] - Time [39919.6ms] - RE_Q [0.588068] - RE_P [1.26224] - Regulation [1.05835] - loss [0.505705]
+Epoch [32300] - Time [36879.9ms] - RE_Q [0.66948] - RE_P [1.41997] - Regulation [1.07398] - loss [0.549536]
+Epoch [32400] - Time [37628.3ms] - RE_Q [0.632238] - RE_P [1.40858] - Regulation [1.10142] - loss [0.536402]
+Epoch [32500] - Time [41125.8ms] - RE_Q [0.615665] - RE_P [1.99585] - Regulation [1.0939] - loss [0.526611]
+Epoch [32600] - Time [42081.9ms] - RE_Q [0.668633] - RE_P [1.31411] - Regulation [1.09678] - loss [0.553672]
+Epoch [32700] - Time [41909.4ms] - RE_Q [0.662106] - RE_P [1.11682] - Regulation [1.20662] - loss [0.572378]
+Epoch [32800] - Time [38647.1ms] - RE_Q [0.699963] - RE_P [1.59717] - Regulation [1.19004] - loss [0.587989]
+Epoch [32900] - Time [41942.2ms] - RE_Q [0.648821] - RE_P [1.31341] - Regulation [1.15123] - loss [0.554657]
+Epoch [33000] - Time [37566.8ms] - RE_Q [0.627622] - RE_P [1.16062] - Regulation [1.07325] - loss [0.528462]
+Epoch [33100] - Time [37488.8ms] - RE_Q [0.673621] - RE_P [1.6172] - Regulation [1.27362] - loss [0.591534]
+Epoch [33200] - Time [38176ms] - RE_Q [0.647076] - RE_P [2.13553] - Regulation [1.08274] - loss [0.540086]
+Epoch [33300] - Time [41808.2ms] - RE_Q [0.744263] - RE_P [2.06023] - Regulation [1.13956] - loss [0.600043]
+Epoch [33400] - Time [38069.5ms] - RE_Q [0.573207] - RE_P [0.942568] - Regulation [1.08136] - loss [0.502874]
+The model has been saved
+Epoch [33500] - Time [42571.9ms] - RE_Q [0.651048] - RE_P [0.888739] - Regulation [1.09351] - loss [0.544226]
+Epoch [33600] - Time [40715.9ms] - RE_Q [0.637702] - RE_P [1.79989] - Regulation [1.0689] - loss [0.532631]
+Epoch [33700] - Time [37174.4ms] - RE_Q [0.655189] - RE_P [1.35466] - Regulation [1.21971] - loss [0.571537]
+Epoch [33800] - Time [41147.3ms] - RE_Q [0.64368] - RE_P [0.830019] - Regulation [1.07347] - loss [0.536534]
+Epoch [33900] - Time [37395ms] - RE_Q [0.627926] - RE_P [1.13791] - Regulation [1.05587] - loss [0.525137]
+Epoch [34000] - Time [41197.4ms] - RE_Q [0.652364] - RE_P [2.19779] - Regulation [1.1501] - loss [0.556201]
+Epoch [34100] - Time [41041.7ms] - RE_Q [0.698973] - RE_P [2.30671] - Regulation [1.22507] - loss [0.594501]
+Epoch [34200] - Time [37186.4ms] - RE_Q [0.654945] - RE_P [1.49283] - Regulation [1.07031] - loss [0.541534]
+Epoch [34300] - Time [42113.2ms] - RE_Q [0.617399] - RE_P [1.37537] - Regulation [1.08281] - loss [0.525262]
+Epoch [34400] - Time [38055.7ms] - RE_Q [0.598491] - RE_P [1.34054] - Regulation [1.09894] - loss [0.519034]
+Epoch [34500] - Time [45980.1ms] - RE_Q [0.649531] - RE_P [0.981202] - Regulation [1.14592] - loss [0.55395]
+Epoch [34600] - Time [41149.4ms] - RE_Q [0.599813] - RE_P [1.3803] - Regulation [1.02228] - loss [0.504362]
+Epoch [34700] - Time [42370.3ms] - RE_Q [0.633904] - RE_P [0.946811] - Regulation [1.00101] - loss [0.517154]
+Epoch [34800] - Time [37807.7ms] - RE_Q [0.741477] - RE_P [0.971497] - Regulation [1.25455] - loss [0.621648]
+Epoch [34900] - Time [41997.4ms] - RE_Q [0.699121] - RE_P [1.5994] - Regulation [1.1628] - loss [0.582121]
+Epoch [35000] - Time [37218.5ms] - RE_Q [0.687806] - RE_P [1.08615] - Regulation [1.08722] - loss [0.561347]
+Epoch [35100] - Time [42233.7ms] - RE_Q [0.627296] - RE_P [1.1562] - Regulation [1.09892] - loss [0.533432]
+Epoch [35200] - Time [41376.8ms] - RE_Q [0.584275] - RE_P [1.4093] - Regulation [0.982503] - loss [0.488638]
+The model has been saved
+Epoch [35300] - Time [41677.1ms] - RE_Q [0.65514] - RE_P [1.77002] - Regulation [1.08008] - loss [0.543586]
+Epoch [35400] - Time [38870.4ms] - RE_Q [0.584264] - RE_P [1.13622] - Regulation [0.972024] - loss [0.486537]
+The model has been saved
+Epoch [35500] - Time [37370.9ms] - RE_Q [0.603029] - RE_P [1.26161] - Regulation [1.08133] - loss [0.51778]
+Epoch [35600] - Time [46055.3ms] - RE_Q [0.584985] - RE_P [1.34813] - Regulation [1.0481] - loss [0.502112]
+Epoch [35700] - Time [38169.1ms] - RE_Q [0.641942] - RE_P [0.878788] - Regulation [1.22146] - loss [0.565263]
+Epoch [35800] - Time [45603.6ms] - RE_Q [0.726307] - RE_P [0.967926] - Regulation [1.09542] - loss [0.582237]
+Epoch [35900] - Time [37704ms] - RE_Q [0.605623] - RE_P [1.1161] - Regulation [1.02241] - loss [0.507293]
+Epoch [36000] - Time [42819.1ms] - RE_Q [0.57361] - RE_P [1.35018] - Regulation [1.07753] - loss [0.50231]
+Epoch [36100] - Time [37503.6ms] - RE_Q [0.584867] - RE_P [0.964259] - Regulation [0.986129] - loss [0.489659]
+Epoch [36200] - Time [41863.7ms] - RE_Q [0.748917] - RE_P [0.858593] - Regulation [1.03206] - loss [0.580871]
+Epoch [36300] - Time [37211.5ms] - RE_Q [0.620661] - RE_P [1.36528] - Regulation [1.13168] - loss [0.536666]
+Epoch [36400] - Time [37936.8ms] - RE_Q [0.66207] - RE_P [1.6387] - Regulation [1.11886] - loss [0.554808]
+Epoch [36500] - Time [38445.2ms] - RE_Q [0.561596] - RE_P [1.00221] - Regulation [0.962141] - loss [0.473226]
+The model has been saved
+Epoch [36600] - Time [43516.2ms] - RE_Q [0.651938] - RE_P [1.15537] - Regulation [1.03444] - loss [0.532857]
+Epoch [36700] - Time [36933.1ms] - RE_Q [0.671703] - RE_P [0.800789] - Regulation [1.15502] - loss [0.566855]
+Epoch [36800] - Time [40269.7ms] - RE_Q [0.620335] - RE_P [0.76632] - Regulation [1.03387] - loss [0.516941]
+Epoch [36900] - Time [38944.3ms] - RE_Q [0.615151] - RE_P [1.24684] - Regulation [1.08199] - loss [0.523973]
+Epoch [37000] - Time [40888.2ms] - RE_Q [0.591537] - RE_P [0.659202] - Regulation [1.00568] - loss [0.496903]
+Epoch [37100] - Time [41090.8ms] - RE_Q [0.655797] - RE_P [1.1043] - Regulation [1.09261] - loss [0.54642]
+Epoch [37200] - Time [41112.8ms] - RE_Q [0.615654] - RE_P [1.0961] - Regulation [1.06174] - loss [0.520176]
+Epoch [37300] - Time [41638.3ms] - RE_Q [0.598723] - RE_P [1.17031] - Regulation [0.998668] - loss [0.499095]
+Epoch [37400] - Time [42496.4ms] - RE_Q [0.609929] - RE_P [0.915514] - Regulation [1.02484] - loss [0.509933]
+Epoch [37500] - Time [41754.9ms] - RE_Q [0.645727] - RE_P [1.37577] - Regulation [0.990725] - loss [0.521009]
+Epoch [37600] - Time [37769.3ms] - RE_Q [0.575881] - RE_P [1.01302] - Regulation [1.02991] - loss [0.493923]
+Epoch [37700] - Time [37554.5ms] - RE_Q [0.57671] - RE_P [0.730792] - Regulation [1.10457] - loss [0.509268]
+Epoch [37800] - Time [39643.5ms] - RE_Q [0.564306] - RE_P [0.838297] - Regulation [0.975305] - loss [0.477214]
+Epoch [37900] - Time [44433.5ms] - RE_Q [0.578146] - RE_P [0.857547] - Regulation [0.95996] - loss [0.481065]
+Epoch [38000] - Time [37282.5ms] - RE_Q [0.690113] - RE_P [0.765804] - Regulation [1.04107] - loss [0.553271]
+Epoch [38100] - Time [41477.2ms] - RE_Q [0.552307] - RE_P [1.03625] - Regulation [0.939373] - loss [0.464028]
+The model has been saved
+Epoch [38200] - Time [43675.9ms] - RE_Q [0.554662] - RE_P [0.800905] - Regulation [0.960588] - loss [0.469449]
+Epoch [38300] - Time [45102.3ms] - RE_Q [0.618101] - RE_P [0.865876] - Regulation [1.11156] - loss [0.531362]
+Epoch [38400] - Time [37944.1ms] - RE_Q [0.612421] - RE_P [0.754828] - Regulation [1.0847] - loss [0.523151]
+Epoch [38500] - Time [42019.5ms] - RE_Q [0.587647] - RE_P [0.735059] - Regulation [0.974558] - loss [0.488735]
+Epoch [38600] - Time [46198.6ms] - RE_Q [0.608642] - RE_P [0.85754] - Regulation [1.00914] - loss [0.506149]
+Epoch [38700] - Time [38476.4ms] - RE_Q [0.642444] - RE_P [1.35972] - Regulation [1.03046] - loss [0.527314]
+Epoch [38800] - Time [41410.2ms] - RE_Q [0.548586] - RE_P [0.717352] - Regulation [0.956603] - loss [0.465613]
+Epoch [38900] - Time [42492.3ms] - RE_Q [0.577281] - RE_P [1.22947] - Regulation [1.03488] - loss [0.495617]
+Epoch [39000] - Time [42016.6ms] - RE_Q [0.554727] - RE_P [0.763143] - Regulation [0.909036] - loss [0.45917]
+The model has been saved
+Epoch [39100] - Time [36933.6ms] - RE_Q [0.68493] - RE_P [1.30557] - Regulation [1.07177] - loss [0.556819]
+Epoch [39200] - Time [36929.2ms] - RE_Q [0.612525] - RE_P [0.764994] - Regulation [0.981551] - loss [0.502573]
+Epoch [39300] - Time [39163ms] - RE_Q [0.548371] - RE_P [0.881605] - Regulation [0.98542] - loss [0.471269]
+Epoch [39400] - Time [37155.7ms] - RE_Q [0.617559] - RE_P [1.13571] - Regulation [0.969601] - loss [0.502699]
+Epoch [39500] - Time [36973ms] - RE_Q [0.601518] - RE_P [0.771452] - Regulation [0.997746] - loss [0.500308]
+Epoch [39600] - Time [34471.4ms] - RE_Q [0.591728] - RE_P [0.933124] - Regulation [1.002] - loss [0.496264]
+Epoch [39700] - Time [38654.1ms] - RE_Q [0.605722] - RE_P [1.17234] - Regulation [1.03529] - loss [0.50992]
+Epoch [39800] - Time [36087.5ms] - RE_Q [0.532201] - RE_P [1.18856] - Regulation [0.990182] - loss [0.464137]
+Epoch [39900] - Time [33394.1ms] - RE_Q [0.538866] - RE_P [1.23088] - Regulation [1.00824] - loss [0.471081]
+Epoch [40000] - Time [36182.2ms] - RE_Q [0.653276] - RE_P [0.585789] - Regulation [0.976629] - loss [0.521964]
+Epoch [40100] - Time [37721.2ms] - RE_Q [0.566329] - RE_P [1.06831] - Regulation [0.966228] - loss [0.47641]
+Epoch [40200] - Time [37759.4ms] - RE_Q [0.653105] - RE_P [1.01696] - Regulation [0.994226] - loss [0.525398]
+Epoch [40300] - Time [36908.3ms] - RE_Q [0.576519] - RE_P [0.85736] - Regulation [0.997559] - loss [0.487771]
+Epoch [40400] - Time [35990ms] - RE_Q [0.553591] - RE_P [0.951277] - Regulation [0.984059] - loss [0.473608]
+Epoch [40500] - Time [33615.3ms] - RE_Q [0.588017] - RE_P [0.823633] - Regulation [0.975985] - loss [0.489205]
+Epoch [40600] - Time [37213.3ms] - RE_Q [0.607718] - RE_P [0.950883] - Regulation [1.09386] - loss [0.522631]
+Epoch [40700] - Time [40657.1ms] - RE_Q [0.634601] - RE_P [1.17041] - Regulation [0.936807] - loss [0.504662]
+Epoch [40800] - Time [33426.7ms] - RE_Q [0.561737] - RE_P [0.737788] - Regulation [1.01431] - loss [0.483731]
+Epoch [40900] - Time [36008.7ms] - RE_Q [0.519555] - RE_P [1.34831] - Regulation [0.953056] - loss [0.450389]
+The model has been saved
+Epoch [41000] - Time [36903.7ms] - RE_Q [0.631682] - RE_P [0.875892] - Regulation [1.00838] - loss [0.517517]
+Epoch [41100] - Time [33476.3ms] - RE_Q [0.582291] - RE_P [0.627467] - Regulation [0.971667] - loss [0.485479]
+Epoch [41200] - Time [38458.5ms] - RE_Q [0.627717] - RE_P [0.813988] - Regulation [0.948686] - loss [0.503596]
+Epoch [41300] - Time [37310.6ms] - RE_Q [0.59482] - RE_P [0.929369] - Regulation [0.960395] - loss [0.489489]
+Epoch [41400] - Time [36624.4ms] - RE_Q [0.54949] - RE_P [0.68882] - Regulation [0.916638] - loss [0.458072]
+Epoch [41500] - Time [41302.6ms] - RE_Q [0.531717] - RE_P [0.628813] - Regulation [0.980574] - loss [0.461973]
+Epoch [41600] - Time [39399.3ms] - RE_Q [0.522814] - RE_P [0.66901] - Regulation [0.977284] - loss [0.456864]
+Epoch [41700] - Time [33458.9ms] - RE_Q [0.548843] - RE_P [1.10248] - Regulation [0.936791] - loss [0.461779]
+Epoch [41800] - Time [35980.3ms] - RE_Q [0.601138] - RE_P [0.952326] - Regulation [0.945196] - loss [0.489608]
+Epoch [41900] - Time [35067.1ms] - RE_Q [0.6175] - RE_P [1.70994] - Regulation [1.07644] - loss [0.524038]
+Epoch [42000] - Time [38079.9ms] - RE_Q [0.574099] - RE_P [0.865072] - Regulation [0.928041] - loss [0.472658]
+Epoch [42100] - Time [37010ms] - RE_Q [0.589425] - RE_P [1.0619] - Regulation [0.917841] - loss [0.478281]
+Epoch [42200] - Time [33887.5ms] - RE_Q [0.658436] - RE_P [0.656879] - Regulation [1.03559] - loss [0.536336]
+Epoch [42300] - Time [38286.1ms] - RE_Q [0.533981] - RE_P [0.900054] - Regulation [0.932795] - loss [0.45355]
+Epoch [42400] - Time [34916.1ms] - RE_Q [0.523316] - RE_P [0.82948] - Regulation [0.862799] - loss [0.434218]
+The model has been saved
+Epoch [42500] - Time [36215.6ms] - RE_Q [0.602624] - RE_P [0.938781] - Regulation [0.93678] - loss [0.488668]
+Epoch [42600] - Time [38095.3ms] - RE_Q [0.561814] - RE_P [0.733951] - Regulation [0.939939] - loss [0.468895]
+Epoch [42700] - Time [37071.9ms] - RE_Q [0.501406] - RE_P [0.871486] - Regulation [0.889515] - loss [0.428606]
+The model has been saved
+Epoch [42800] - Time [36167ms] - RE_Q [0.562431] - RE_P [1.24296] - Regulation [0.883185] - loss [0.457852]
+Epoch [42900] - Time [37305.4ms] - RE_Q [0.679517] - RE_P [0.805723] - Regulation [1.13475] - loss [0.566709]
+Epoch [43000] - Time [40031.7ms] - RE_Q [0.52983] - RE_P [0.798018] - Regulation [0.882207] - loss [0.441356]
+Epoch [43100] - Time [36347.2ms] - RE_Q [0.595866] - RE_P [0.898262] - Regulation [1.01923] - loss [0.50178]
+Epoch [43200] - Time [33508.2ms] - RE_Q [0.53382] - RE_P [0.606126] - Regulation [0.91939] - loss [0.450788]
+Epoch [43300] - Time [36382.3ms] - RE_Q [0.534726] - RE_P [0.983456] - Regulation [0.921426] - loss [0.451648]
+Epoch [43400] - Time [35057ms] - RE_Q [0.600321] - RE_P [0.813379] - Regulation [1.00244] - loss [0.500648]
+Epoch [43500] - Time [37352.2ms] - RE_Q [0.547077] - RE_P [0.984768] - Regulation [0.959334] - loss [0.465405]
+Epoch [43600] - Time [38618.9ms] - RE_Q [0.601517] - RE_P [0.610953] - Regulation [0.970772] - loss [0.494913]
+Epoch [43700] - Time [35178.5ms] - RE_Q [0.631534] - RE_P [0.583726] - Regulation [1.00464] - loss [0.516696]
+Epoch [43800] - Time [33443.4ms] - RE_Q [0.554208] - RE_P [0.732877] - Regulation [0.937215] - loss [0.464547]
+Epoch [43900] - Time [37954.8ms] - RE_Q [0.487936] - RE_P [0.890007] - Regulation [0.858061] - loss [0.41558]
+The model has been saved
+Epoch [44000] - Time [37523.9ms] - RE_Q [0.564615] - RE_P [0.646483] - Regulation [0.883721] - loss [0.459052]
+Epoch [44100] - Time [41293.1ms] - RE_Q [0.55218] - RE_P [0.781045] - Regulation [0.898487] - loss [0.455787]
+Epoch [44200] - Time [33488.5ms] - RE_Q [0.5295] - RE_P [0.814601] - Regulation [0.91405] - loss [0.44756]
+Epoch [44300] - Time [36819.5ms] - RE_Q [0.529567] - RE_P [1.21873] - Regulation [0.87239] - loss [0.439261]
+Epoch [44400] - Time [33490.3ms] - RE_Q [0.531125] - RE_P [0.722903] - Regulation [0.870226] - loss [0.439608]
+Epoch [44500] - Time [36223.7ms] - RE_Q [0.50109] - RE_P [0.911032] - Regulation [0.909497] - loss [0.432444]
+Epoch [44600] - Time [36561.6ms] - RE_Q [0.498344] - RE_P [0.631203] - Regulation [0.865326] - loss [0.422237]
+Epoch [44700] - Time [36105.8ms] - RE_Q [0.572687] - RE_P [0.810525] - Regulation [0.900724] - loss [0.466488]
+Epoch [44800] - Time [38234.9ms] - RE_Q [0.498419] - RE_P [0.702098] - Regulation [0.870317] - loss [0.423273]
+Epoch [44900] - Time [39258.9ms] - RE_Q [0.577258] - RE_P [0.635486] - Regulation [0.942192] - loss [0.477068]
+Epoch [45000] - Time [33286.7ms] - RE_Q [0.488931] - RE_P [0.863122] - Regulation [0.857362] - loss [0.415938]
+Epoch [45100] - Time [39255.2ms] - RE_Q [0.547068] - RE_P [0.668889] - Regulation [0.975213] - loss [0.468577]
+Epoch [45200] - Time [34106ms] - RE_Q [0.495651] - RE_P [0.679852] - Regulation [0.896837] - loss [0.427193]
+Epoch [45300] - Time [36889.5ms] - RE_Q [0.522194] - RE_P [1.01509] - Regulation [0.898668] - loss [0.440831]
+Epoch [45400] - Time [39804.9ms] - RE_Q [0.513303] - RE_P [0.730665] - Regulation [0.84447] - loss [0.425546]
+Epoch [45500] - Time [33772.7ms] - RE_Q [0.566396] - RE_P [0.727023] - Regulation [0.912058] - loss [0.465609]
+Epoch [45600] - Time [37285.1ms] - RE_Q [0.55588] - RE_P [0.715427] - Regulation [0.911573] - loss [0.460255]
+Epoch [45700] - Time [37614.1ms] - RE_Q [0.507855] - RE_P [0.939991] - Regulation [0.871989] - loss [0.428325]
+Epoch [45800] - Time [42423.4ms] - RE_Q [0.485523] - RE_P [0.738464] - Regulation [0.884474] - loss [0.419656]
+Epoch [45900] - Time [33664.6ms] - RE_Q [0.532169] - RE_P [0.70038] - Regulation [0.904056] - loss [0.446896]
+Epoch [46000] - Time [33812.5ms] - RE_Q [0.550095] - RE_P [0.65591] - Regulation [0.942748] - loss [0.463597]
+Epoch [46100] - Time [42365.7ms] - RE_Q [0.472] - RE_P [0.799028] - Regulation [0.861526] - loss [0.408305]
+The model has been saved
+Epoch [46200] - Time [33408.6ms] - RE_Q [0.50098] - RE_P [0.708009] - Regulation [0.883184] - loss [0.427127]
+Epoch [46300] - Time [33388.6ms] - RE_Q [0.518647] - RE_P [0.740549] - Regulation [0.87868] - loss [0.435059]
+Epoch [46400] - Time [36057.7ms] - RE_Q [0.484106] - RE_P [0.641414] - Regulation [0.86164] - loss [0.414381]
+Epoch [46500] - Time [37529.5ms] - RE_Q [0.477954] - RE_P [0.566269] - Regulation [0.837458] - loss [0.406469]
+The model has been saved
+Epoch [46600] - Time [38755.4ms] - RE_Q [0.512968] - RE_P [0.612302] - Regulation [0.932167] - loss [0.442918]
+Epoch [46700] - Time [36731.1ms] - RE_Q [0.512865] - RE_P [0.64978] - Regulation [0.824438] - loss [0.42132]
+Epoch [46800] - Time [38770.5ms] - RE_Q [0.630395] - RE_P [0.915519] - Regulation [0.973674] - loss [0.509932]
+Epoch [46900] - Time [38062.2ms] - RE_Q [0.48698] - RE_P [0.790075] - Regulation [0.839601] - loss [0.41141]
+Epoch [47000] - Time [35052.2ms] - RE_Q [0.53108] - RE_P [0.636268] - Regulation [0.894963] - loss [0.444533]
+Epoch [47100] - Time [37961.3ms] - RE_Q [0.602728] - RE_P [0.728213] - Regulation [0.974978] - loss [0.49636]
+Epoch [47200] - Time [36200.3ms] - RE_Q [0.49592] - RE_P [0.589356] - Regulation [0.838786] - loss [0.415717]
+Epoch [47300] - Time [33428.5ms] - RE_Q [0.517422] - RE_P [0.805707] - Regulation [0.875381] - loss [0.433787]
+Epoch [47400] - Time [36411.9ms] - RE_Q [0.491994] - RE_P [1.06281] - Regulation [0.861892] - loss [0.418375]
+Epoch [47500] - Time [39863.9ms] - RE_Q [0.488421] - RE_P [0.733041] - Regulation [0.851369] - loss [0.414484]
+Epoch [47600] - Time [36516.5ms] - RE_Q [0.530318] - RE_P [0.806411] - Regulation [0.846864] - loss [0.434532]
+Epoch [47700] - Time [36905.6ms] - RE_Q [0.521042] - RE_P [0.661236] - Regulation [0.859124] - loss [0.432346]
+Epoch [47800] - Time [37214.1ms] - RE_Q [0.493662] - RE_P [0.635363] - Regulation [0.857688] - loss [0.418369]
+Epoch [47900] - Time [36614.6ms] - RE_Q [0.537708] - RE_P [0.858207] - Regulation [0.8593] - loss [0.440714]
+Epoch [48000] - Time [36217.2ms] - RE_Q [0.517982] - RE_P [0.909981] - Regulation [0.844118] - loss [0.427815]
+Epoch [48100] - Time [38657.6ms] - RE_Q [0.495497] - RE_P [0.922279] - Regulation [0.818213] - loss [0.411391]
+Epoch [48200] - Time [42640ms] - RE_Q [0.548001] - RE_P [0.607197] - Regulation [0.928205] - loss [0.459642]
+Epoch [48300] - Time [42321.3ms] - RE_Q [0.527961] - RE_P [0.847092] - Regulation [0.827173] - loss [0.429415]
+Epoch [48400] - Time [34149.5ms] - RE_Q [0.501692] - RE_P [0.60598] - Regulation [0.862372] - loss [0.42332]
+Epoch [48500] - Time [33071.1ms] - RE_Q [0.547138] - RE_P [0.772408] - Regulation [0.879029] - loss [0.449375]
+Epoch [48600] - Time [39450.5ms] - RE_Q [0.520083] - RE_P [0.526641] - Regulation [0.859332] - loss [0.431908]
+Epoch [48700] - Time [33343.8ms] - RE_Q [0.516841] - RE_P [0.54197] - Regulation [0.83281] - loss [0.424983]
+Epoch [48800] - Time [36214.3ms] - RE_Q [0.53335] - RE_P [0.552354] - Regulation [0.858763] - loss [0.438428]
+Epoch [48900] - Time [33388.9ms] - RE_Q [0.464379] - RE_P [0.623307] - Regulation [0.854072] - loss [0.403004]
+The model has been saved
+Epoch [49000] - Time [38026.2ms] - RE_Q [0.47664] - RE_P [0.778534] - Regulation [0.89899] - loss [0.418118]
+Epoch [49100] - Time [33558.6ms] - RE_Q [0.517428] - RE_P [0.551215] - Regulation [0.919061] - loss [0.442526]
+Epoch [49200] - Time [36201.1ms] - RE_Q [0.545766] - RE_P [1.05524] - Regulation [0.855048] - loss [0.443892]
+Epoch [49300] - Time [36223.2ms] - RE_Q [0.450822] - RE_P [0.589779] - Regulation [0.804434] - loss [0.386298]
+The model has been saved
+Epoch [49400] - Time [33673.6ms] - RE_Q [0.511674] - RE_P [0.633124] - Regulation [0.872455] - loss [0.430328]
+Epoch [49500] - Time [39157.9ms] - RE_Q [0.632249] - RE_P [0.971327] - Regulation [0.950242] - loss [0.506173]
+Epoch [49600] - Time [35781ms] - RE_Q [0.479033] - RE_P [0.616604] - Regulation [0.856099] - loss [0.410736]
+Epoch [49700] - Time [36111.2ms] - RE_Q [0.493434] - RE_P [0.77629] - Regulation [0.854561] - loss [0.41763]
+Epoch [49800] - Time [37831.6ms] - RE_Q [0.451347] - RE_P [0.695544] - Regulation [0.817167] - loss [0.389107]
+Epoch [49900] - Time [38433.8ms] - RE_Q [0.50157] - RE_P [0.667418] - Regulation [0.910951] - loss [0.432975]
+Epoch [50000] - Time [36317ms] - RE_Q [0.492786] - RE_P [0.946262] - Regulation [0.873919] - loss [0.421177]
+
+Training  end
