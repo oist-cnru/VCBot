@@ -78,9 +78,11 @@ class Utils():
         
         self.modelKeys = ['datapath',\
                               'modelpath',
+                              'network',
                               'robot',
                               'activejoints',
                               'nsamples',
+                              'w1',
                               'w',
                               'd',
                               'z',
@@ -203,9 +205,9 @@ class Utils():
         return None
     
         
-    def trimString(self, _str):
+    def trimString(self, _str, _sep=' '):
         
-        str_strip = _str.strip().split(' ')
+        str_strip = _str.strip().split(_sep)
         str_rem =  ''
         for s in str_strip:
             str_rem = str_rem + s

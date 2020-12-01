@@ -98,7 +98,7 @@ It is recommended to create a virtual environment for running the client applica
 
 ## Work reference
 
-H. F. Chame, A. Ahmadi, J. Jun (2020) *Towards hybrid primary intersubjectivity: a neural robotics library for human science*
+Chame, H. F., Ahmadi, A., & Tani, J. (2020). [A hybrid human-neurorobotics approach to primary intersubjectivity via active inference](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.584869/full). *Frontiers in Psychology*, 11, 3207. 
 
 
 ## Contact

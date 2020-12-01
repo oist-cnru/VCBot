@@ -1,8 +1,10 @@
 datapath=OXII
 modelpath=MathBot
+network=pvrnn
 robot=cartesian
 activejoints=1,1,0
 nsamples=1,1,1,1
+w1=0.025,0.025
 w=0.025,0.025
 d=40,10
 z=4,1
